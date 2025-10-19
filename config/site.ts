@@ -6,23 +6,23 @@ export const siteConfig = {
   navItems: [
     {
       label: "Home",
-      href: "/",
+      href: "#home",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Projects",
+      href: "#projects",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "skills",
+      href: "#skills",
     },
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Contact",
+      href: "#contact",
     },
     {
       label: "About",
-      href: "/about",
+      href: "#about",
     },
   ],
   navMenuItems: [
@@ -67,3 +67,5 @@ export const siteConfig = {
     sponsor: "https://patreon.com/jrgarciadev",
   },
 };
+
+
